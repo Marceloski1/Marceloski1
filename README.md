@@ -2,9 +2,15 @@
 
 <div align="center">
     <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+Informática;Desarrollador+En+Constante+Aprendizaje;Apasionado+por+la+Tecnología;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
+<div align="center">
+
+![Estudiante de Ingeniería Informática](https://img.shields.io/badge/🎓-Estudiante_de_Ingeniería_Informática-22C55E?style=for-the-badge)
+![Desarrollador en Constante Aprendizaje](https://img.shields.io/badge/💻-Desarrollador_en_Constante_Aprendizaje-22C55E?style=for-the-badge)
+
+![Apasionado por la Tecnología](https://img.shields.io/badge/🚀-Apasionado_por_la_Tecnología-22C55E?style=for-the-badge)
+
+
+</div>
   
   ![Capybara Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFoem1saHl0ZTZveTR1MzIwbGdwY3NlazdxaW1mb3VxeXl6aXg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixoxfW7EShjRMkPN6S/giphy.gif)
 </div>
