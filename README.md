@@ -4,7 +4,7 @@
     <br/>
 <div align="center">
 
-![Estudiante de Ingeniería Informática](https://img.shields.io/badge/🎓-Estudiante_de_Ingeniería_Informática-22C55E?style=for-the-badge)
+![Graduado en Ingeniería Informática](https://img.shields.io/badge/🎓-Estudiante_de_Ingeniería_Informática-22C55E?style=for-the-badge)
 ![Desarrollador en Constante Aprendizaje](https://img.shields.io/badge/💻-Desarrollador_en_Constante_Aprendizaje-22C55E?style=for-the-badge)
 
 ![Apasionado por la Tecnología](https://img.shields.io/badge/🚀-Apasionado_por_la_Tecnología-22C55E?style=for-the-badge)
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🎓 **Estudiante de 4to año** de Ingeniería Informática
+- 🎓 Graduado de la universidad José Antonio Echeverría (CUJAE) de Ingeniería Informática
 - 🏙️ De **La Habana, Cuba** 🇨🇺
 - 💡 Apasionado por el desarrollo de software y las nuevas tecnologías.Interesado en la arquitectura de software.
 - 🎯 Buscando oportunidades para aplicar mis conocimientos y ganar experiencia
@@ -89,7 +89,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MCP-00A4DC?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCP" />
 </div>
 
 ## 📊 Estadísticas de GitHub
