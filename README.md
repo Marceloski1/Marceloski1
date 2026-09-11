@@ -8,7 +8,7 @@
 
 ![Apasionado por la Tecnología](https://img.shields.io/badge/🚀-Apasionado_por_la_Tecnología-22C55E?style=for-the-badge)
 
-![Graduado en Ingeniería Informática](https://img.shields.io/badge/🎓-Estudiante_de_Ingeniería_Informática-22C55E?style=for-the-badge)
+![Graduado en Ingeniería Informática](https://img.shields.io/badge/🎓-Graduado_de_Ingeniería_Informática-22C55E?style=for-the-badge)
 ---
 
 ## 👨‍💻 Sobre Mí
