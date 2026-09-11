@@ -9,11 +9,6 @@
 ![Apasionado por la Tecnología](https://img.shields.io/badge/🚀-Apasionado_por_la_Tecnología-22C55E?style=for-the-badge)
 
 ![Graduado en Ingeniería Informática](https://img.shields.io/badge/🎓-Estudiante_de_Ingeniería_Informática-22C55E?style=for-the-badge)
-</div>
-  
-  ![Capybara Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFoem1saHl0ZTZveTR1MzIwbGdwY3NlazdxaW1mb3VxeXl6aXg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixoxfW7EShjRMkPN6S/giphy.gif)
-</div>
-
 ---
 
 ## 👨‍💻 Sobre Mí
